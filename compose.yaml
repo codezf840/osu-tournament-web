@@ -1,0 +1,10 @@
+services:
+  mariadb:
+    image: 'mariadb:latest'
+    environment:
+      - MARIADB_DATABASE=osutourney
+      - MARIADB_PASSWORD=r61uU0neYRc8MN
+      - MARIADB_USER=osutourney
+      - MARIADB_ROOT_PASSWORD=ugFiBuauhgdtITN6X3wHd0SwCJuy984E
+    ports:
+      - "3306"
