@@ -13,7 +13,7 @@
 
 ### 架構設計圖
 - [資料庫](https://dbdiagram.io/d/osu-tournament-web-684a3b59a463a450da2b253e)
-- [系統流程圖(WIP)]([https://app.diagrams.net/?title=osu-tournament-web.drawio&lightbox=1&page-id=zlzK6_-q4IAIK3xhpbaW&client=1](https://github.com/codezf840/osu-tournament-web/blob/main/osu-tournament-web.drawio.pdf))
+- [系統流程圖(WIP)](https://github.com/codezf840/osu-tournament-web/blob/main/osu-tournament-web.drawio.pdf)
 
 ## 主要目錄結構
 ```
